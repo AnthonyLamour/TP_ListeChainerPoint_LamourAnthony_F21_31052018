@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527757575 source:c:\users\anthony lamour\documents\ludus academie\c\listechainerpoints\list.c
+	"liste.h"
+
+1527758937 c:\users\anthony lamour\documents\ludus academie\c\listechainerpoints\liste.h
+	<stdio.h>
+	<stdlib.h>
+
+1527758871 source:c:\users\anthony lamour\documents\ludus academie\c\listechainerpoints\main.c
+	"liste.h"
+
